@@ -6,7 +6,7 @@ a = np.random.rand(1000000)
 b = np.random.rand(1000000)
 
 print(a)
-
+ 
 tic = time.time()
 
 c = np.dot(a,b)
